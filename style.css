@@ -16,3 +16,13 @@
     border-left:5px dotted #0D47A1;
    padding: 20px;
   }
+   .abc{
+    background-color: gainsboro;
+    padding: 5px;
+    border-radius: 20px;
+    width: 100px;
+    color:black;
+    border:2px solid black;
+    box-shadow: 2px 2px 2px 2px rgb(218, 81, 104);
+
+   }
